@@ -1,6 +1,6 @@
 {
   "name": "outputpair",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple function to help form Bitcoin/Digibyte Raw Transactions",
   "main": "index.js",
   "scripts": {
